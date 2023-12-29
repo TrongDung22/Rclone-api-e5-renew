@@ -23,9 +23,9 @@ Truy cập https://portal.azure.com/#blade/Microsoft_AAD_RegisteredApps/Applicat
 
 rclone config
 
-Đặt tên tùy chọnP
-Paste Application Id ở bước 2P
-Paste Secret ID ở bước 3
-Chọn 1 (Microsoft Cloud Global)
-Chọn n
-Các bước sau, authen làm như bình thường
+* Đặt tên tùy chọn p
+* Paste Application Id ở bước 2P
+* Paste Secret ID ở bước 3
+* Chọn 1 (Microsoft Cloud Global)
+* Chọn n
+* Các bước sau, authen làm như bình thường
