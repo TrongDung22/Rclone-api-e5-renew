@@ -1,4 +1,4 @@
-# Rclone-api-e5-renew
+# Rclone-api-e5-renew.
 Thay vì call các API của bọn khựa thì ae có thể dùng rclone, vừa down/up/sync file, vừa auto renew E5
 
 Mình dùng E5 nhiều năm rồi. Chỉ cài mỗi onedrive trên phone để sync ảnh, lâu lâu dùng rclone copy vài file vào Drive (Ko có tạo share point, ko active office, ko github...) Và vẫn đc renew bình thường.
